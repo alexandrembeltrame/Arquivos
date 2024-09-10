@@ -1,19 +1,26 @@
 //arrays, objetos
 
-let meta = {
+let metas = ["Alexandre", "Olá"]
 
-    value: 'ler um livro por mês',
-    checked: false,
+console.log(metas[1] + " " + metas[0]);
+
+let meta = {
+    value: 'Ler um livro por mês',
+    cor: 'azul',
+    checked: true,
+    log: (info) => {
+
+        console.log(info)
+
+    } // aqui agora o que antes era uma função.. vira um método, por estar dentro do objeto.
+        
 }
 
-console.log(meta.value);
+meta.value = 'Não é mais um livro e sim uma azeitona'
+meta.log(meta.value)
 
-//function // arrow function
 
-let metas = [
+//function | arrow function
 
-    meta, {
-        value: 'caminhar 20 minutos todos os dias',
-    }
+const criarMeta = () => {} // isso é uma função. mas se for utilizada dentro do meu objeto "meta" ele vira um método. Veja no objeto acima:
 
-]

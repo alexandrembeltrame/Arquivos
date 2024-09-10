@@ -26,25 +26,35 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## escopos e variáveis:
 
-  - Variáveis globais e locais
-  - Constantes
+   [x] Variáveis globais e locais
+   [x] Constantes
 
     
 ## tipos de dados
 
-  strings (textos): ""  ''  ``
-  Number: 1, 2.7, 189;
-  function
-  boolean: true or false;
+   [x] Strings (textos): ""  ''  ``
+   [x] Number: 1, 2.7, 189;
+   [x] Boolean: true or false;
 
 ## [x] Operadores:
 
-    [x] Operadores de atribuação de valor
-    [x] operador de contatenação
+   [x] Operadores de atribuação de valor =
+   [x] Operador de contatenação +
 
+## Estrutura de dados:
 
-## [x] Objetos
+### Arrays:
 
-    [x] atributos e objetos
+   [x] Uma lista que contém qualquer tipo de dado
 
-## [] function
+### Objetos
+
+   [x] Atributos e métodos
+   [x] Criação e manipulação de objetos
+   [x] Acesso a propriedades de objetos
+
+### function
+
+   [x] Criar, passar argumento | parametros
+   [x] Executar
+   [x] Arrow function / named function
