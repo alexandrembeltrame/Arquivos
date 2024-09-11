@@ -38,8 +38,9 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## [x] Operadores:
 
-   [x] Operadores de atribuação de valor =
-   [x] Operador de contatenação +
+   [x] Operadores de atribuação de valor: =
+   [x] Operador de contatenação: +
+   [x] Operadores de comparação: == != <= >=  < >
 
 ## Estrutura de dados:
 
@@ -58,3 +59,21 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
    [x] Criar, passar argumento | parametros
    [x] Executar
    [x] Arrow function / named function
+
+# Estrutura de repetição
+
+   [x] while
+
+# condicionais
+
+   [x] switch
+
+# Módulos em NodeJs
+
+   [x] importação de móculos (require, CommonJS)
+   [x] Biblioteca 'inquirer' para criar prompts
+
+
+# programação assincrona e prommises:
+
+   [x]uso da função async e await
