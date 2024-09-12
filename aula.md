@@ -68,10 +68,10 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 
    [x] switch
 
-# Módulos em NodeJs
+# Módulos em Node.Js
 
    [x] importação de móculos (require, CommonJS)
-   [x] Biblioteca 'inquirer' para criar prompts
+   [x] Biblioteca 'inquirer' para criar prompts interativos
 
 
 # programação assincrona e prommises:
