@@ -67,6 +67,7 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 # condicionais
 
    [x] switch
+   [x] if/else
 
 # Módulos em Node.Js
 
@@ -76,4 +77,4 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 
 # programação assincrona e prommises:
 
-   [x]uso da função async e await
+   [x]uso das funções assíncronas (async e await)
