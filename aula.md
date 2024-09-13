@@ -15,7 +15,7 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
     - Operadores (atribuição, concatenação, matemáticos, lógicos)
     - Tipos de dados (string, number, boolean)
     - Estrutura de dados (functions, object, array)
-    - Controle de fluxo (if/else)
+    - Controle de fluxo (if/else/switch)
     - Estrutura de repetição (for, while)
 
 ## fases da resolução de um problema.
@@ -48,7 +48,7 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 ### Arrays:
 
    [x] Uma lista que contém qualquer tipo de dado:
-   [x] Metodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+   [x] Metodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos
 
