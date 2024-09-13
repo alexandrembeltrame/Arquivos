@@ -41,12 +41,14 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
    [x] Operadores de atribuação de valor: =
    [x] Operador de contatenação: +
    [x] Operadores de comparação: == != <= >=  < >
+   [x] Spread operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
-   [x] Uma lista que contém qualquer tipo de dado
+   [x] Uma lista que contém qualquer tipo de dado:
+   [x] Metodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos
 
@@ -73,7 +75,13 @@ como um lego, vcoê irá utilizar peças para criar algoritmos, ou seja, para re
 
    [x] importação de móculos (require, CommonJS)
    [x] Biblioteca 'inquirer' para criar prompts interativos
+   [x] FS (file system)
 
+# JSON
+
+   [x] Javascript Objetc Notation (.json)
+   [x]
+   [x] 
 
 # programação assincrona e prommises:
 
